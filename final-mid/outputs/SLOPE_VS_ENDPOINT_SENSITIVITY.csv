@@ -1,0 +1,26 @@
+country,iso3,dmc_annual_slope,dmc_slope_pval,cmu_annual_slope,cmu_slope_pval,slope_classification,endpoint_classification,classification_agrees
+Austria,AUT,-0.62,0.0,0.4379,0.0001,Absolute decoupling,Absolute decoupling,YES
+Belgium,BEL,0.2,0.0627,0.5434,0.0008,Relative decoupling,No decoupling,NO
+Bulgaria,BGR,0.39,0.0015,0.2093,0.0081,No decoupling,Relative decoupling,NO
+Cyprus,CYP,-0.9,0.1376,0.3742,0.0015,Absolute decoupling,Other,NO
+Czech Republic,CZE,-0.15,0.0148,0.583,0.0,Absolute decoupling,Absolute decoupling,YES
+Germany,DEU,-0.18,0.0002,0.1676,0.0,Absolute decoupling,Absolute decoupling,YES
+Denmark,DNK,0.14,0.0148,0.0841,0.1258,No decoupling,Relative decoupling,NO
+Spain,ESP,-0.47,0.0009,-0.0352,0.5793,Declining circularity + falling DMC,Absolute decoupling,NO
+Estonia,EST,-0.23,0.2923,0.5484,0.0424,Absolute decoupling,Absolute decoupling,YES
+Finland,FIN,-0.35,0.0025,-0.5269,0.0032,Declining circularity + falling DMC,Absolute decoupling,NO
+France,FRA,-0.08,0.0251,-0.1209,0.295,Declining circularity + falling DMC,Relative decoupling,NO
+Greece,GRC,-0.81,0.0,0.3192,0.0006,Absolute decoupling,Other,NO
+Croatia,HRV,-0.14,0.2793,0.3467,0.0,Absolute decoupling,Absolute decoupling,YES
+Hungary,HUN,0.27,0.0034,-0.0275,0.5914,No decoupling,Relative decoupling,NO
+Ireland,IRL,-0.75,0.0001,-0.0071,0.5038,Declining circularity + falling DMC,Absolute decoupling,NO
+Italy,ITA,-0.27,0.0002,0.7368,0.0,Absolute decoupling,Absolute decoupling,YES
+Lithuania,LTU,0.61,0.0,0.0429,0.1329,No decoupling,Relative decoupling,NO
+Latvia,LVA,0.51,0.0,0.2549,0.025,No decoupling,No decoupling,YES
+Netherlands,NLD,-0.19,0.0055,0.3912,0.0006,Absolute decoupling,Absolute decoupling,YES
+Poland,POL,0.15,0.1125,-0.3753,0.0046,No decoupling,Relative decoupling,NO
+Portugal,PRT,-0.46,0.0244,0.0863,0.0036,Absolute decoupling,Absolute decoupling,YES
+Romania,ROU,0.34,0.0005,-0.1407,0.0001,No decoupling,Relative decoupling,NO
+Slovakia,SVK,0.17,0.0046,0.5703,0.0005,Relative decoupling,Relative decoupling,YES
+Slovenia,SVN,-0.01,0.8467,0.1615,0.0614,Absolute decoupling,Relative decoupling,NO
+Sweden,SWE,0.31,0.0,0.1742,0.1509,No decoupling,No decoupling,YES

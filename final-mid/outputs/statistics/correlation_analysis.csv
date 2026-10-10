@@ -1,0 +1,8 @@
+Relationship,N,Pearson_r,Pearson_p,Spearman_r,Spearman_p
+CMUR vs DMC total [NOTE: mechanical link — DMC is in CMUR denominator],325,0.3304,0.0,0.4376,0.0
+CMUR vs DMC per capita [mechanical link partially remains — DMC still in CMUR],325,-0.1568,0.0046,-0.1059,0.0565
+CMUR vs Domestic Extraction [no mechanical link to CMUR],325,0.3238,0.0,0.3895,0.0
+CMUR vs DE per capita [no mechanical link to CMUR],325,-0.1898,0.0006,-0.2232,0.0
+CMUR vs DMC/GDP [NOTE: DMC appears in both CMUR and this ratio],325,-0.4128,0.0,-0.5118,0.0
+CMUR vs DE/GDP [preferred — DE has no mechanical link to CMUR],325,-0.4054,0.0,-0.5023,0.0
+CMUR vs DMI (DE+Imports) [DMI shares no direct link to CMUR],325,0.4713,0.0,0.5116,0.0

@@ -1,0 +1,6 @@
+Denominator,Countries(CMUR↑),AlsoDecline,AlsoIncrease,%Decline,Note
+Total DMC (UNEP),19,11,8,57.9,Production-based; does not capture consumption-side imports (material leakage possible)
+DMC per capita,19,11,8,57.9,Per-capita indicator; same production-based limitation as Total DMC
+DMC/GDP,19,16,3,84.2,Material intensity; improves with GDP growth even without absolute DMC reduction
+Domestic Extraction (UNEP),19,11,8,57.9,Measures extraction within borders only; not total consumption (no import footprint)
+DMI = DE+Imports (UNEP),19,7,12,36.8,Partially captures import leakage (DE + Imports); 12 of 19 CMUR-rising countries had rising DMI

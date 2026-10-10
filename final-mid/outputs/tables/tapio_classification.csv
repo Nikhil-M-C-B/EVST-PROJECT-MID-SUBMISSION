@@ -1,0 +1,6 @@
+tapio_classification,n_countries,countries
+Strong decoupling,12,"Austria, Cyprus, Czech Republic, Germany, Spain, Estonia, Finland, Croatia, Ireland, Italy, Netherlands, Portugal"
+Weak decoupling,7,"Bulgaria, France, Hungary, Poland, Romania, Slovakia, Slovenia"
+Expansive coupling,3,"Belgium, Denmark, Lithuania"
+Expansive negative decoupling,2,"Latvia, Sweden"
+Recessive decoupling,1,Greece

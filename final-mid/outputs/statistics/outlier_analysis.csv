@@ -1,0 +1,5 @@
+Indicator,Country,iso3,Value,Z_score,Mean,SD,Note
+% Change in DE,Lithuania,LTU,71.4,2.09,3.85,32.37,Retained in analysis — treated as a genuine structural observation
+% Change in DMC,Latvia,LVA,59.96,2.04,0.78,29.04,Retained in analysis — treated as a genuine structural observation
+% GDP growth,Ireland,IRL,140.04,3.92,30.95,27.8,Retained in analysis — treated as a genuine structural observation
+Change in CMUR (pp),Estonia,EST,12.8,2.54,2.62,4.01,Retained in analysis — treated as a genuine structural observation
